@@ -55,7 +55,7 @@
   text-align: left;
   color: inherit;
   text-decoration: none;
-  border: 1px solid #eaeaea;
+  border: 1px solid #c32626;
   border-radius: 10px;
   transition:
     color 0.15s ease,
@@ -65,8 +65,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #00f351;
+  border-color: #df00f3;
 }
 
 .card h3 {
